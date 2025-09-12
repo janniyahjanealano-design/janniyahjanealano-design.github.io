@@ -8,6 +8,8 @@
     color: buttontext;
     background-color: buttonface;
     text-decoration: none;
+    margin: 5px;
+    display: inline-block;
   }
    </style>
 </head>
