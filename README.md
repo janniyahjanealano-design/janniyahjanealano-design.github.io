@@ -4,30 +4,9 @@
 </head>
 <body>
 
-  <h1>Alano, Janniyah Jane</h1>
-
-  <table border="1" cellpadding="1">
-    <tr>
-      <th>Skill</th>
-      <th>Level</th>
-    </tr>
-    <tr>
-      <td>HTML</td>
-      <td>Beginner</td>
-    </tr>
-    <tr>
-      <td>CSS</td>
-      <td>Beginner</td>
-    </tr>
-    <tr>
-      <td>JavaScript</td>
-      <td>Learning</td>
-    </tr>
-  </table>
-
-  <h2>Contact Me</h2>
-
-  <p> Please contact me using the form below. :3 </p>
+  <h1 style="text-align: center;">Alano, Janniyah Jane</h1>
+  <a class="btn btn-default" href="WK1_JJTA.pdf" role="button">WK1</a>
+  <a class="btn btn-default" href="WK2_JJTA.pdf" role="button">WK2</a>
   <form action="mailto:janniyahjane.alano@neu.edu.ph" method="post" enctype="text/plain">
     <label for="name">Name:</label><br>
     <input type="text" id="name" name="name"><br><br>
