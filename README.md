@@ -1,6 +1,9 @@
 <html>
 <head>
     <style>
+    body{
+    background-color: #E5BEB5;
+    }
     a.button {
     align: center;
     padding: 3px 6px;
