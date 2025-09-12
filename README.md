@@ -11,6 +11,8 @@
     text-decoration: none;
     margin: 5px;
     display: inline-block;
+    width: 200px;
+    height: 60;
   }
    </style>
 </head>
