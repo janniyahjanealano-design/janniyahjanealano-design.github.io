@@ -9,6 +9,7 @@
     color: buttontext;
     background-color: buttonface;
     text-decoration: none;
+    text-align: center;
     margin: 5px;
     display: inline-block;
     width: 200px;
