@@ -5,8 +5,8 @@
 <body>
 
   <h1 style="text-align: center;">Alano, Janniyah Jane</h1>
-  <a class="btn btn-default" href="WK1_JJTA.pdf" role="button">WK1</a>
-  <a class="btn btn-default" href="WK2_JJTA.pdf" role="button">WK2</a>
+  <a class="btn btn-default" href="WK1_JJTA.pdf">WK1</a>
+  <a class="btn btn-default" href="WK2_JJTA.pdf">WK2</a>
   <form action="mailto:janniyahjane.alano@neu.edu.ph" method="post" enctype="text/plain">
     <label for="name">Name:</label><br>
     <input type="text" id="name" name="name"><br><br>
