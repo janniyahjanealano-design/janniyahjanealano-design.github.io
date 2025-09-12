@@ -2,7 +2,7 @@
 <head>
     <style>
     a.button {
-    padding: 1px 6px;
+    padding: 3px 6px;
     border: 1px outset buttonborder;
     border-radius: 3px;
     color: buttontext;
