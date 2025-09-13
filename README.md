@@ -22,7 +22,7 @@
 </head>
 <body>
   <h1 style="text-align: center;">Alano, Janniyah Jane</h1>
-
+    <hr>
   <a href="WK1_JJTA.pdf" class="button"> Week 1 </a>
   <a href="WK2_JJTA.pdf" class="button"> Week 2 </a>
   <a href="WK3_JJTA.pdf" class="button"> Week 3 </a>
