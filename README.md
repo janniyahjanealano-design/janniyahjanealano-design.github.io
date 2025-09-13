@@ -15,7 +15,7 @@
     text-align: center;
     margin: 5px;
     display: inline-block;
-    width: 200px;
+    width: 100px;
     height: 60;
   }
    </style>
